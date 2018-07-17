@@ -1,32 +1,36 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://m4ppi.github.io',
+    title: 'm4ppi | portfolio',
+    subtitle: 'portfolio',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
-      {
-        label: 'Articles',
-        path: '/'
-      },
+      // {
+      //   label: 'Articles',
+      //   path: '/'
+      // },
       {
         label: 'About me',
         path: '/about/'
       },
       {
-        label: 'Contact me',
-        path: '/contact/'
+        label: 'Favorite',
+        path: '/favorite/'
       }
+      // {
+      //   label: 'Contact me',
+      //   path: '/contact/'
+      // }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'm4ppi',
+      // email: '#',
+      // telegram: '#',
+      twitter: 'm4ppi',
+      github: 'm4ppi',
+      // rss: '#',
+      // vk: '#'
     }
   },
   plugins: [

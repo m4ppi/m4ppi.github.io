@@ -21,7 +21,8 @@ class IndexRoute extends React.Component {
         <Sidebar {...this.props} />
         <div className="content">
           <div className="content__inner">
-            {items}
+            {/*記事一覧*/}
+            {/*{items}*/}
           </div>
         </div>
       </div>

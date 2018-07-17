@@ -1,0 +1,2 @@
+webpackJsonp([0xe70826b53c04],{398:function(t,e){t.exports={data:{site:{siteMetadata:{title:"m4ppi | portfolio",subtitle:"portfolio",copyright:"© All rights reserved.",menu:[{label:"About me",path:"/about/"},{label:"Favorite",path:"/favorite/"}],author:{name:"m4ppi",email:"#",telegram:"#",twitter:"m4ppi",github:"m4ppi",rss:"#",vk:"#"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-9923062e7a1721581722.js.map

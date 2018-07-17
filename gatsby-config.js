@@ -26,12 +26,12 @@ module.exports = {
     ],
     author: {
       name: 'm4ppi',
-      // email: '#',
-      // telegram: '#',
+      email: '#',
+      telegram: '#',
       twitter: 'm4ppi',
       github: 'm4ppi',
-      // rss: '#',
-      // vk: '#'
+      rss: '#',
+      vk: '#'
     }
   },
   plugins: [

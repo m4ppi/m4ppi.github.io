@@ -5,6 +5,7 @@ module.exports = {
     subtitle: 'portfolio',
     copyright: '© All rights reserved.',
     disqusShortname: '',
+    pathPrefix: '/m4ppi',
     menu: [
       // {
       //   label: 'Articles',

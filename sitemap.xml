@@ -11,11 +11,6 @@
 <url> <loc>https://m4ppi.github.io/tags/handwriting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/tags/learning-to-write/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/categories/design-inspiration/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://m4ppi.github.io/posts/the-birth-of-movable-type/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://m4ppi.github.io/tags/open-source/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://m4ppi.github.io/tags/gatsby/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://m4ppi.github.io/tags/typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://m4ppi.github.io/categories/typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/posts/a-brief-history-of-typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/tags/linotype/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/tags/monotype/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -23,7 +18,12 @@
 <url> <loc>https://m4ppi.github.io/tags/helvetica/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/posts/humane-typography-in-the-digital-age/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/tags/design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://m4ppi.github.io/tags/typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/tags/web-development/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://m4ppi.github.io/categories/typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://m4ppi.github.io/posts/the-birth-of-movable-type/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://m4ppi.github.io/tags/open-source/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://m4ppi.github.io/tags/gatsby/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://m4ppi.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
